@@ -10,8 +10,8 @@ $(call inherit-product, device/htc/t6vzw/device.mk)
 # Device identifier - this must come after all inclusions
 PRODUCT_DEVICE := t6vzw
 PRODUCT_NAME := cm_t6vzw
-PRODUCT_BRAND := htc
-PRODUCT_MODEL := One
+PRODUCT_BRAND := VERIZON
+PRODUCT_MODEL := HTC6600LVW
 PRODUCT_MANUFACTURER := HTC
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
